@@ -46,7 +46,7 @@ export default function Main() {
         isOpen={isOpen}
       />
       <Flex
-        w="full"
+        w={"full"}
         alignItems={"flex-start"}
         justifyContent={"space-evenly"}
         flexDirection={("colum", "colum", "colum", "row", "row")}
